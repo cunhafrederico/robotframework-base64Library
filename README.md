@@ -1,7 +1,7 @@
-# Base64File Library for Robot Framework
+# base64Library Library for Robot Framework
 
-[![PyPI version](https://badge.fury.io/py/robotframework-base64file.svg)](https://pypi.org/project/robotframework-base64file/)
-[![Python versions](https://img.shields.io/pypi/pyversions/robotframework-base64file.svg)](https://pypi.org/project/robotframework-base64file/)
+[![PyPI version](https://badge.fury.io/py/robotframework-base64Library.svg)](https://pypi.org/project/robotframework-base64Library/)
+[![Python versions](https://img.shields.io/pypi/pyversions/robotframework-base64Library.svg)](https://pypi.org/project/robotframework-base64Library/)
 
 Professional Base64 file handling for Robot Framework with large file support.
 
@@ -18,7 +18,7 @@ Professional Base64 file handling for Robot Framework with large file support.
 ## Installation
 
 ```bash
-pip install robotframework-base64file
+pip install robotframework-base64Library
 ```
 
 ## Basic Usage
